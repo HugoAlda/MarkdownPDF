@@ -1,14 +1,14 @@
 # MarkdownPDF
 
-1. ¿Què es una páguina web?
+1.¿Què es una páguina web?
 
-Respuesta.
+1. Respuesta.
 
 2. ¿Qué es un sitio web?
 
-Respuesta.
+2. Respuesta.
 
 3. ¿Qué es ua aplicacion web?
 
-Respuesta.
+3. Respuesta.
 

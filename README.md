@@ -2,13 +2,12 @@
 
 1. ¿Què es una páguina web?
 
-..* Respuesta.
+   Respuesta.
 
 2. ¿Qué es un sitio web?
 
-..* Respuesta.
+   Respuesta.
 
 3. ¿Qué es ua aplicacion web?
 
-..* Respuesta.
-
+   Respuesta.

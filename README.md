@@ -17,4 +17,4 @@
    Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
    presentación
 
-5. [Herramientas de Google:](![image](https://user-images.githubusercontent.com/96111308/190674538- b01ae41c-244e-490d-a381-2d5437ee5e23.png)
+5. [Herramientas de Google:](https://www.google.es/?hl=ca "Herramienta de ayuda")
